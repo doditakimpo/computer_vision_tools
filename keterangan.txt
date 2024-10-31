@@ -2,4 +2,5 @@ install:
 1. editor, contohnya visual studio code
 2. python
    link donwload: https://www.python.org/downloads/windows/
+   gunakan python versi 3.10.*
 3. package python
