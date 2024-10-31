@@ -1,1 +1,4 @@
-tambahkan yang lain
+install:
+1. editor, contohnya visual studio code
+2. python
+3. package python
