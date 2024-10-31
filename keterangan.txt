@@ -4,3 +4,5 @@ install:
    link donwload: https://www.python.org/downloads/windows/
    gunakan python versi 3.10.*
 3. package python
+   pip install <nama_package>
+   contoh: pip install numpy
