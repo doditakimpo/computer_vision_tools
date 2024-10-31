@@ -1,4 +1,5 @@
 install:
 1. editor, contohnya visual studio code
 2. python
+   link donwload: https://www.python.org/downloads/windows/
 3. package python
